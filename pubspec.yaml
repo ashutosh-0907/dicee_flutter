@@ -1,0 +1,38 @@
+name: mi_card
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_core: ^2.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  http:
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - Images/ashutosh3.jpg
+
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: Font/Pacifico-Regular.ttf
+
+    - family: Source Sans Pro
+      fonts:
+        - asset: Font/SourceSansPro-Regular.ttf
+
+
+
