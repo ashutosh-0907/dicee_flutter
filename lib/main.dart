@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
                 height: 20.0,
                 width: 150.0,
                 child: Divider(
-                  color: Colors.white,                  
+                  color: Colors.white,
                 ),
               ),
               Padding(
